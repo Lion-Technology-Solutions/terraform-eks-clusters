@@ -1,7 +1,7 @@
 
 #  **<span style="color:green">Lion Technologies, Ontario, Canada.</span>**
-### **<span style="color:green">Contacts: 6473818836<br> WebSite : <http://mylandmarktech.com/></span>**
-### **Email: mylandmarktech@gmail.com**
+### **<span style="color:green">Contacts: 6473818836<br> WebSite : <https://liontechacademy.com/></span>**
+### **Email: info@liontechacademy.com**
 
 
 
